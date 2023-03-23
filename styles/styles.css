@@ -1,0 +1,18 @@
+body {
+  background: black;
+  color: whitesmoke;
+  font-family: monospace;
+}
+body .container .expenses-table {
+  background: #333;
+  padding: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1em;
+}
+body .container .expenses-table .futureValue {
+  color: coral;
+  font-size: 50px;
+}/*# sourceMappingURL=styles.css.map */
